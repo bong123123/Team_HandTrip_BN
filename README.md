@@ -1,4 +1,5 @@
 CORS가 뭔지도 모르는 저능아를 위한 링크ㅋㅋ 병신새끼
+![image](https://github.com/user-attachments/assets/40f04b0a-19e7-4e2d-87d8-88517b8ae348)
 
 
 # HandTrip
