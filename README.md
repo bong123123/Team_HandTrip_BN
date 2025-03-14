@@ -1,11 +1,9 @@
 
-# HandTrip
+# HandTrip(https://github.com/SeoKai/HandTrip_BN)
 
-## WORKSPACE
-- [**Notion**](https://seong-kai.notion.site/PROJECT-14dfcab0377c80ae8e20e6d8f35d869c?pvs=4)
-- [**FN**](https://github.com/SeoKai/HandTrip_FN)
-- [**AI**](https://github.com/SeoKai/TripChoseAI)
-- [**DataCollector**](https://github.com/SeoKai/TripDataCollector)
+
+박재영 
+FN
 
 ##  **목표**
 
