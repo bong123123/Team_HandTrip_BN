@@ -14,7 +14,7 @@
 
 - 시장 조사 : 유사 사이트 조사 ( [상세](https://seong-kai.notion.site/14dfcab0377c80baad01c2f7a5901ccb) )
 - ERD : 리뷰, 리뷰이미지, 태그, 즐겨찾기, 사용자, 사용자 프로필 테이블 및 관계 설계
-- 기능 기획 : 기능별 우선순위 정리 및 상세 구현 계획 ( [상세] (https://seong-kai.notion.site/4c8cd6966f054a5d827b1437a2e56a78?pvs=74) ) , 엔드포인트 정리 ( [상세] (https://seong-kai.notion.site/154fcab0377c803b83b2e7b159524940?pvs=74) )
+- 기능 기획 : 기능별 우선순위 정리 및 상세 구현 계획 ( [상세](https://seong-kai.notion.site/4c8cd6966f054a5d827b1437a2e56a78?pvs=74) ) , 엔드포인트 정리 ( [상세](https://seong-kai.notion.site/154fcab0377c803b83b2e7b159524940?pvs=74) )
 
 
 ### 개발 단계 
