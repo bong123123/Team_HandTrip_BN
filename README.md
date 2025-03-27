@@ -11,7 +11,7 @@
 | **NAME&nbsp;** | **ROLE**              | **SKILL**                           | **PART**                                                     | **DESCRIPTION** |
 | -------------- | --------------------- | ----------------------------------- | ------------------------------------------------------------ | --------------- |
 | 심성완         | BN / FN / AI / SERVER | SPRING BOOT, REACT, SQL, FLASK, AWS | 플래너, 데이터 콜렉팅 및 가공, AI모델 작성, 배포             | 조장            |
-| 박재영         | BN / FN               | SPRING BOOT, REACT, SQL             | 리뷰, 장소, 좋아요, 메일 및 문자 발송, 파일 업로드,사용자 프로필           |                 |
+| 박재영         | BN / FN               | SPRING BOOT, REACT, SQL             | 리뷰, 장소, 좋아요, 메일 및 문자 발송, 파일 업로드           |                 |
 | 이재용         | BN / FN               | SPRING BOOT, REACT, SQL             | 사용자, 사용자 프로필, Jwt Token, OAuth 인증                 |                 |
 | 김은성         | FN                    | REACT, FIGMA, CSS, HTML             | 메인페이지, 여행지 조회페이지, 여행지 상세페이지, 마이페이지 |                 |
 | 김가은         | FN                    | REACT, FIGMA, CSS, HTML             | 메인페이지, 플래너 작성,조회,수정 페이지, 마이페이지         |                 |
