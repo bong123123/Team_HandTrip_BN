@@ -39,5 +39,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
 </p>
+- 권한 관리 : 비회원 상태에서는 일부 서비스 이용 제한
 ---
 
