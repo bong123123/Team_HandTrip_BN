@@ -6,19 +6,7 @@
 
 ### 개발기간 : 2024.12 ~ 2025.01
 
-### **MEMEBR**
-
-| **NAME&nbsp;** | **ROLE**              | **SKILL**                           | **PART**                                                     | **DESCRIPTION** |
-| -------------- | --------------------- | ----------------------------------- | ------------------------------------------------------------ | --------------- |
-| 심성완         | BN / FN / AI / SERVER | SPRING BOOT, REACT, SQL, FLASK, AWS | 플래너, 데이터 콜렉팅 및 가공, AI모델 작성, 배포             | 조장            |
-| 박재영         | BN / FN               | SPRING BOOT, REACT, SQL             | 리뷰, 장소, 좋아요, 메일 및 문자 발송, 파일 업로드           |                 |
-| 이재용         | BN / FN               | SPRING BOOT, REACT, SQL             | 사용자, 사용자 프로필, Jwt Token, OAuth 인증                 |                 |
-| 김은성         | FN                    | REACT, FIGMA, CSS, HTML             | 메인페이지, 여행지 조회페이지, 여행지 상세페이지, 마이페이지 |                 |
-| 김가은         | FN                    | REACT, FIGMA, CSS, HTML             | 메인페이지, 플래너 작성,조회,수정 페이지, 마이페이지         |                 |
-
 ### [프로젝트 상세 정보](https://github.com/SeoKai/HandTrip_BN)
-
-
 
 ---
 ### 담당 역할
@@ -35,11 +23,21 @@
 -	사용자 프로필 : 아이디 찾기, 비밀번호 찾기, 인증메일 및 문자 발송
 -	사용자 활동 : 리뷰 수정, 삭제, 여행지 즐겨찾기
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a18b669-1b16-44f8-8bf7-d9b994a032a4">
+</p>
+
 리뷰도메인 
 -	이미지 업로드, 리뷰 작성
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01cad4e4-68d7-4a07-b9f7-ef68b9d5c48a">
+</p>
 
 여행지도메인 
 -	여행지 검색 : 카테고리 별 검색, 검색어를 통한 검색, 도시별 검색 및 최신순, 별점순 정렬
 -	여행지 상세 : 여행지 상세 정보, 여행지 관련 리뷰, 가까운 거리의 다른 여행지 탐색등
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
+</p>
 ---
 
