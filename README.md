@@ -43,7 +43,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
 </p>
-
+<p>
+  ![01-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/92baaef9-1fff-4505-ae7b-a1ed9c83a1d9)
+</p>
 ---
 
 ### 기술 스택
