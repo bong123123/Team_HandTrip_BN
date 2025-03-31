@@ -40,10 +40,11 @@
 -	여행지 검색 : 카테고리 별 검색, 검색어를 통한 검색, 도시별 검색 및 최신순, 별점순 정렬, 여행지 즐겨찾기 추가
 -	여행지 상세 : 여행지 상세 정보, 여행지 관련 리뷰, 가까운 거리의 다른 여행지 탐색
 -	권환 관리 : 비회원 상태에서는 일부 서비스 이용 제한
-
+여행지 즐겨찾기 및 조회
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92baaef9-1fff-4505-ae7b-a1ed9c83a1d9">
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
 </p>
