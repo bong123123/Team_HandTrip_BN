@@ -41,12 +41,18 @@
 -	여행지 상세 : 여행지 상세 정보, 여행지 관련 리뷰, 가까운 거리의 다른 여행지 탐색
 -	권환 관리 : 비회원 상태에서는 일부 서비스 이용 제한
 
-여행지 즐겨찾기 및 조회
+
+여행지 검색
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/143a22b6-3844-4a26-9745-91eac2a7a2cc">
+</p>
+
+여행지 즐겨찾기 및 즐겨찾기 한 여행지 조회
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92baaef9-1fff-4505-ae7b-a1ed9c83a1d9">
 </p>
 
-여행지 검색과 권환 관리 (비회원 상태 서비스 이용 제한)
+권한관리
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
 </p>
