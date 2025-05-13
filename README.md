@@ -55,6 +55,8 @@
   <img src="https://github.com/user-attachments/assets/4e3ef583-353b-483a-92a1-7a95019057f5">
 </p>
 
+그 외 비밀번호 찾기 및 변경 시 인증메일,문자를 통한 인증번호 발송 기능. 인증번호는 Redis를 통해 저장되며 5분이 지나면 만료된다.
+
 ---
 
 ### 기술 스택
